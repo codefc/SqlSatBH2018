@@ -242,7 +242,7 @@ Application started. Press Ctrl+C to shut down.
 
 A aplicação encontra-se em execução. Abra o navegador de sua preferência e digite o seguinte endereço: 
 
-**http://localhost:5000/api/Pessoa***
+**http://localhost:5000/api/Pessoa**
 
 A princípio, a saída do seu browser deverá ser, apenas a seguinte: **[]**. Isso se deve ao fato de não haver qualquer registro na base de dados. Insira novos registros e teste novamente a aplicação.
 
